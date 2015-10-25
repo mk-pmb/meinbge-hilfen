@@ -1,10 +1,10 @@
--*- coding: utf-8, tab-width: 2 -*-
-
+﻿
 MeinBGE-Hilfestellungen
 =======================
 
 Mancher Kram, der auf der Webseite fehlt oder nicht funktioniert.
 
+* [CrowdCard zum selber Ausdrucken](crowdcard/README.md)
 
 
 
@@ -12,3 +12,6 @@ Mancher Kram, der auf der Webseite fehlt oder nicht funktioniert.
 
 
 
+
+
+-*- coding: utf-8, tab-width: 2 -*-

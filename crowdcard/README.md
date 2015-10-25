@@ -2,7 +2,7 @@
 CrowdCard zum selber Ausdrucken
 -------------------------------
 * Rekonstruiert aus dem [offiziellen PDF][payback-ruecks] (nur Rückseite,
-  Graustufen) und dem [Bild von Vorder- und Rückseite][].
+  Graustufen) und dem [Bild von Vorder- und Rückseite][payback-vorder].
 * Maße ec-Karte: 86 x 54 mm
 * HG-Blau auf Rückseite in Pfeilspitze: #0C589E = HSL (148,219,85)
 
